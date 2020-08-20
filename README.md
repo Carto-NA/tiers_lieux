@@ -50,51 +50,21 @@ Dictionnaire de données
 | referent_tel | Numéro de téléphone du référent |  |  |  |  |  |  |
 | x_wgs84 |  |  |  |  |  |  |  |
 | y_wgs84 |  |  |  |  |  |  |  |
-| geom | Cordonnée géographique en lambert93 (Point) |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| geom | Cordonnée géographique en lambert93 (Point) | geom |  |  |  |  |  |
+| date_sai | Date d'import/saisie de la donnée | datetime |  | NOT NULL | now() |  |  |
 |  |  |  |  |  |  |  |  |
  
  
-Explication des colonnes
-Nom du champ	Description
-ID	Identifiant unique du tiers lieu dans la base
-NOM_TL	Nom du tiers lieux
-ADRESSE	Adresse
-CP	Code Postal
-COMINIT	Commune (telle que déclarée initialement dans la base)
-INSEECOM	Code INSEE de la commune
-NOMCOM	Nom INSEE de la commune
-WEB	Site internet du tiers lieu
-TWITTER	Twitter du tiers lieu
-FACEBOOK	Page facebook du tiers lieu
-TYPO	Typologie CGET
-LAT	Latitude
-LONG	Longitude
-GEOCOD	Adresse telle que déterminée lors de la géolocalisation
-PRECISION	Précision de la géolocalisation
-CONTACT	Nom du contact
- MAIL	Mail du contact
-METRO	1 --> Dans le périmètre d'une des 22 métropoles 0 --> Hors périmètre métropolitan
-NOMMETRO	Nom de la Métropole d'appartenance (le cas échéant)
-INSEEREG	Code INSEE de la région
-NOMREG	Nom de la région
-INSEEMETRO	Code insee de la métropole d’appartenance
-INSEEDEP	Code insee du département
-NOMCOMMETRO	Nom de commune de la métropole
-POPCOM	Population de la commune
-COMCLASS	Catégorie de opulation de la commune
-INSEE_ZE	Code insee de la zone d'emploi
-NOM_ZE	Nom de la zone d'emploi
-CLASS_ZE	Catégorie de population de la zone d'emploi
-POP_ZE	Population de la zone d'emploi
-Réutilisation
-Ce jeu de données est publiée par le CGET (Commissariat général à l'égalité des territoires) et il est diffusé sous licence Ouverte 2.0 (voir le fichier LICENCE.md).
 
-Ce jeu de données est publiée
 
-Mises à jour
+
+## Réutilisation
+Ce jeu de données est publiée par la région Nouvelle-Aquitaine et la Coppérative Tiers-lieux via la plateforme PIGMA. Il est diffusé sous licence Ouverte 2.0 (voir le fichier LICENCE.md).
+
+
+## Mises à jour
 Les mises à jour sont effectuées à partir du fichier communiqué par la Coopérative des tiers lieux précédemment et en reprennent, en les modifiant le cas échéant, les données qui y figurent déjà.
 
-En savoir plus
+## En savoir plus
 *La coopérative des tiers-lieux (https://coop.tierslieux.net/)
 *Les aides Nouvelle-Aquitaine (https://les-aides.nouvelle-aquitaine.fr/amenagement-du-territoire/tiers-lieux-2019-2021)
