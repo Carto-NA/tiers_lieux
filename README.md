@@ -2,18 +2,16 @@ Les tiers-lieux
 ====
 
 Contenu de la base de données :
+
 Cette base de données a été constituée par la coopérative des Tiers-lieux en partenariat avec le service **Délégation Numérique** de la région Nouvelle-Aquitaine.
 
 Elle contient à l’heure actuelle **200** tiers lieux et vise pour chaque tiers lieu à informer sur :
-* la localisation (adresse, géolocalisation…) ;
-* le site internet ;
-* la page facebook ;
-* le twitter ;
-
-des compléments d’informations sur la situation géographique : dans une métropole ? dans quelle zone d’emploi et quelles caractéristiques pour la zone d’emploi ?
-L’objectif de la publication de cette base de données est de permettre sa libre réutilisation mais également son amélioration afin d’avoir une vision nationale plus claire et plus fine des tiers lieux en France.
-
-Si vous souhaitez avoir plus d’informations sur la base de données ou sur la Mission Coworking, contactez : remy.seillier@cget.gouv.fr
+* la localisation (adresse, géolocalisation…)
+* le contact
+* le type de tiers-lieu
+* la catégorie du tiers-lieu
+* le site internet
+* les réseaux sociaux
 
 
 Provenance des données :
