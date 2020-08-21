@@ -1,4 +1,12 @@
-Dictionnaire de données
+# Dictionnaire de données
+
+* Statut
+  - [ ] à rédiger
+  - [x] en cours de rédaction
+  - [ ] relecture
+  - [ ] finaliser
+  - [ ] révision
+  
 
 | Champ | Désignation | Type/Taille | Contrainte | Règle de calcul | Clé étrangère | Commentaire |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
