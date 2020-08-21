@@ -1,6 +1,29 @@
 Les tiers-lieux
 ====
 
+Dans un objectif de maillage équilibré du territoire, la Région participe à la création et au développement des espaces de travail partagés et collaboratifs, les tiers-lieux.
+
+
+* Statut
+  - [ ] à rédiger
+  - [x] en cours de rédaction
+  - [ ] relecture
+  - [ ] finaliser
+  - [ ] révision
+
+# Généralité
+
+|Représentation| Nom de l'application |Résumé|
+|:---|:---|:---|
+|![picto](/doc/img/tierslieu_bleu.png)| Les tiers-lieux en Nouvelle-Aquitaine| L'application permet la consultation des tiers-lieux soutenuent par la Région Nouvelle-Aquitaine.|
+
+
+# Accès
+
+|Public|Métier|Accès restreint|
+|:-:|:-:|:---|
+||X|Accès réservé aux personnels gestionnaires des données des EPCI ayant les droits d'accès.|
+  
 Contenu de la base de données :
 
 Cette base de données a été constituée par la coopérative des Tiers-lieux en partenariat avec le service **Délégation Numérique** de la région Nouvelle-Aquitaine.
