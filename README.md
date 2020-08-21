@@ -20,9 +20,10 @@ Dans un objectif de maillage équilibré du territoire, la Région participe à 
 
 # Accès
 
-|Public|Métier|Accès restreint|
-|:-:|:-:|:---|
-||X|Accès réservé aux personnels gestionnaires des données des EPCI ayant les droits d'accès.|
+| Grand public | Interne | Métier | Accès restreint |  Où trouver la carte |
+|:--:|:--:|:--:|:--:| :--:|
+| x| |  | Accès grand public | Portail carte dynamique |
+
   
 Contenu de la base de données :
 
