@@ -15,7 +15,7 @@ Dans un objectif de maillage équilibré du territoire, la Région participe à 
 
 |Représentation| Nom de l'application |Résumé|
 |:---|:---|:---|
-|![picto](/doc/img/tierslieu_bleu.png)| Les tiers-lieux en Nouvelle-Aquitaine| L'application permet la consultation des tiers-lieux soutenuent par la Région Nouvelle-Aquitaine.|
+|![picto](/doc/img/tierslieu_bleu.png)| Les tiers-lieux en Nouvelle-Aquitaine| L'application permet la consultation des tiers-lieux soutenus par la Région Nouvelle-Aquitaine.|
 
 
 # Accès
@@ -98,7 +98,7 @@ Ce jeu de données est publiée par la région Nouvelle-Aquitaine et la Coppéra
 
 
 ## Mises à jour
-Les mises à jour sont effectuées à partir du fichier communiqué par la Coopérative des tiers lieux précédemment et en reprennent, en les modifiant le cas échéant, les données qui y figurent déjà.
+Les mises à jour sont effectuées à partir du fichier communiqué par la Coopérative des tiers lieux (septembre - octobre) ou en modifiant le cas échéant, les données qui y figurent déjà.
 
 ## En savoir plus
 *La coopérative des tiers-lieux (https://coop.tierslieux.net/)
