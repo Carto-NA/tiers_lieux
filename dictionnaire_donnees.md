@@ -11,8 +11,9 @@
 | Champ | Désignation | Type/Taille | Contrainte | Règle de calcul | Clé étrangère | Commentaire |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | id | Identifiant | serial |  | NOT NULL |  | Identifiant non signifiant |
-| siret | Numéro de SIRET de la structure | varchar(14) |  |  |  |  |
-| str_nom | Nom de la structure | varchar(255) |  |  |  |  |
+| code_officiel | Numéro de SIRET ou RNA de la structure | varchar(14) |  |  |  |  |
+| type_code_officiel | Type de code (Siret ou RNA) | varchar(5) |  |  |  |  |
+| nom | Nom de la structure | varchar(255) |  |  |  |  |
 | categorie | Catégorie de la structure | varchar(255) |  |  |  |  |
 | typologie | Typologie de la structure | varchar(255) |  |  |  |  |
 | adresse | Adresse de la structure | varchar(255) |  |  |  |  |
@@ -25,9 +26,9 @@
 | instagram | Page instagram de la structure | text |  |  |  |  |
 | ct_nom | Nom du référent | varchar(150) |  |  |  |  |
 | ct_prenom | Prénom du référent | varchar(100) |  |  |  |  |
-| ct_courriel | Courriel du référent |  |  |  |  |  |
-| ct_tel_fixe | Numéro de téléphone fixe du référent |  |  |  |  |  |
-| ct_tel_mobile | Numéro de téléphone mobile du référent |  |  |  |  |  |
+| ct_courriel | Courriel du référent | varchar(200) |  |  |  |  |
+| ct_tel_fixe | Numéro de téléphone fixe du référent | varchar(14) |  |  |  |  |
+| ct_tel_mobile | Numéro de téléphone mobile du référent | varchar(14) |  |  |  |  |
 | x_wgs84 | Longitude cordonnée géographique (X) en WGS84 | numeric(2,7) |  |  |  |  |
 | y_wgs84 | Latitude cordonnée géographique (Y) en WGS84 | numeric(1,9) |  |  |  |  |
 | geom | Cordonnée géographique en lambert93 (Point) | geom |  |  |  |  |
