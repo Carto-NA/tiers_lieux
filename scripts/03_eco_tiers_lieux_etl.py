@@ -19,3 +19,20 @@
 import arcpy, datetime, os, pandas as pd, numpy as np
 from arcpy import env
 
+#---------------------------------#
+# On définit l'espace de travail
+
+# On demande de saisir l'environnement de travail (prod ou preprod)
+environnement_travail = input("Saisir l'environnement de travail (prod ou preprod): ")
+
+# On test et on déclare la variable
+if environnement_travail == "preprod":
+    conn = "conn_preprod/preprod_metier.sde"
+elif environnement_travail == "prod":
+    conn = "conn_prod/prod_metier.sde"
+    
+# Dossier du projet
+projet = r"Modele_AdminDonnees/"
+
+# Espace de travail
+arcpy.env.workspace = r"i:/ArcGIS/Projects/" + projet + conn
