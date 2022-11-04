@@ -63,7 +63,7 @@ Mode de gestion :
 | 000 | NR | Non renseigné |
 | 82 | universite | Université |
 | 83 | departement | Un département |
-| 84 | GIP | | Un GIP (Groupement d\'Intérêt Public) |
+| 84 | GIP | Un GIP (Groupement d\'Intérêt Public) |
 | 85 | commune | Une commune
 | 86 | EPCI | Une EPCI (Etablissement Public de Coopération Intercommunale : Communauté de Communes, Communauté d’’Agglomération, Métropole…)
 | 89 |S PL | Une Société Publique Locale
