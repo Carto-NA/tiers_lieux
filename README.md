@@ -34,6 +34,8 @@ Elle contient à l’heure actuelle plus de **200** tiers lieux et vise pour cha
 * le contact
 * le type de tiers-lieu
 * la catégorie du tiers-lieu
+* Accès PMR
+* Accès à la fibre
 * le site internet
 * les réseaux sociaux
 
@@ -54,47 +56,64 @@ Coworking, Emploi, Polarité, Tiers-Lieux, Zone d'emploi
 
 Liste de valeurs :
 
-Categorie :
+Mode de gestion :
 
-| Libellé | Libellé long |
-| :--: | :--: |
-| NR | Non renseigné |
-| Association | Association |
-| SARL | Société à responsabilité limitée |
-| SAS + Association | SAS + Association |
-| GIP | Groupement d'intérêt public |
-| EURL | Entreprise unipersonnelle à responsabilité limitée |
-| SAS | société par actions simplifiée |
-| SCI | Société civil immobilière |
-| Université | Université |
-| SA | Société anonyme |
-| Association / SARL | Association / SARL |
-| Association / collectivité | Association / collectivité |
-| Association / université | Association / université |
-| SCIC + Association | SCIC + Association |
-| SPL | Société publique locale |
-| EI | Entreprise individuel |
+| Code | Libellé | Libellé long |
+| :--: | :--: | :--: |
+| 000 | NR | Non renseigné |
+| 82 | universite | Université |
+| 83 | departement | Un département |
+| 84 | GIP | | Un GIP (Groupement d\'Intérêt Public) |
+| 85 | commune | Une commune
+| 86 | EPCI | Une EPCI (Etablissement Public de Coopération Intercommunale : Communauté de Communes, Communauté d’’Agglomération, Métropole…)
+| 89 |S PL | Une Société Publique Locale
+| 132 | SAS | Une SAS
+| 133 | SARL | Une SARL
+| 134 | SCIC | Une SCIC
+| 135 | SCOP | Une SCOP
+| 136 | Association | Association |
 
 
 Typologie :
 
-| Libellé | Libellé long |
-| :--: | :--: |
-| NR | Non renseigné |
-| Coworking | Coworking |
-| Fablab | Fablab |
-| Coworking et fablab | Coworking et fablab |
-| Atelier partagé | Atelier partagé |
-| Fablab et atelier partagé | Fablab et atelier partagé |
-| Coworking et atelier partagé | Coworking et atelier partagé |
-| Coworking, fablab et atelier partagé | Coworking, fablab et atelier partagé |
-| Fablab et atelier partagé | Fablab et atelier partagé |
-| Hybride | Hybride |
-| Terres agricoles |Terres agricoles |
+| Code | Libellé | Libellé long |
+| :--: | :--: | :--: |
+| 000 | NR | Non renseigné |
+| 5 | Terres agricoles partagées |Terres agricoles partagées |
+| 7 | Ateliers artisanaux partagés | Ateliers artisanaux partagés |
+| 8 | Bureaux partagés | Bureaux partagés |
+| 9 | Fablab | Fablab |
 
+
+Service annexe :
+
+| Code | Libellé | Libellé long |
+| :--: | :--: | :--: |
+| 000 | NR | Non renseigné |
+| 32 | Traceur | Traceur |
+| 34 | Salle de spectacle | Salle de spectacle |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ## Réutilisation
-Ce jeu de données est publiée par la région Nouvelle-Aquitaine et la Coppérative Tiers-lieux via la plateforme PIGMA. Il est diffusé sous licence Ouverte 2.0 (voir le fichier LICENCE.md).
+Ce jeu de données est publiée par la région Nouvelle-Aquitaine et la Coopérative Tiers-lieux via la plateforme PIGMA. Il est diffusé sous licence Ouverte 2.0 (voir le fichier LICENCE.md).
 
 
 ## Mises à jour
