@@ -29,7 +29,7 @@ Contenu de la base de données :
 
 Cette base de données a été constituée par la coopérative des Tiers-lieux en partenariat avec le service **Délégation Numérique** de la région Nouvelle-Aquitaine.
 
-Elle contient à l’heure actuelle **200** tiers lieux et vise pour chaque tiers lieu à informer sur :
+Elle contient à l’heure actuelle plus de **200** tiers lieux et vise pour chaque tiers lieu à informer sur :
 * la localisation (adresse, géolocalisation…)
 * le contact
 * le type de tiers-lieu
